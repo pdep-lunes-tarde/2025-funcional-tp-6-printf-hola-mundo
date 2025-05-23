@@ -11,17 +11,13 @@
 
 ## Equipo
 
-- Nombre del grupo
+- Nombre del grupo : **printf("Hola mundo")**
 
-- Legajo: **Completar**
-- Nombre: **Completar**
+- Legajo: **204.610-6**
+- Nombre: **Kevin E. Suarez**
 
-- Legajo: **Completar**
-- Nombre: **Completar**
-
-- Legajo: **Completar**
-- Nombre: **Completar**
-
+- Legajo: **167.938-7**
+- Nombre: **Gabriel Franco Chocobar**
 
 ## El enunciado
 
